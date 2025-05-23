@@ -1,3 +1,6 @@
+![A58HE-kb](https://github.com/user-attachments/assets/eb3c1c9f-a407-44ad-92eb-15ca1ad544f1)
+![A58HE-kb2](https://github.com/user-attachments/assets/3e589ba7-1c40-4f10-b791-0985a5e20cca)
+![A58HE-kb3](https://github.com/user-attachments/assets/dc52c4ed-8cd1-4556-ab23-99b7d05d6994)
 
 # A58HE - Open Source 50% Alice-Like Analog Keyboard 
 Havent ordered pcb's yet due to it's whopping price of ~~$150.
