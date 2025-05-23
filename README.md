@@ -4,7 +4,7 @@ With this project I'm trying to achieve making the first working ergo analog key
 Made layout from using already exsisting kle.json of 40% alice keyboard and modifying it.
 ![A58HE-kb](https://github.com/user-attachments/assets/eb3c1c9f-a407-44ad-92eb-15ca1ad544f1)
 ![A58HE-kb2](https://github.com/user-attachments/assets/3e589ba7-1c40-4f10-b791-0985a5e20cca)
-(for some unknown to me reason usb-c connector and some other thing not present on the render)
+(for some unknown to me reason usb-c connector and some other things are not present on the render)
 # Keyboard layout
 ![Screenshot 2025-05-23 224956](https://github.com/user-attachments/assets/c56582cb-bb91-4fea-bb73-6172925c082f)
 # Disclaimer
