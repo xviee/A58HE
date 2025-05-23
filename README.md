@@ -1,5 +1,6 @@
 ![A58HE-kb](https://github.com/user-attachments/assets/eb3c1c9f-a407-44ad-92eb-15ca1ad544f1)
 ![A58HE-kb2](https://github.com/user-attachments/assets/3e589ba7-1c40-4f10-b791-0985a5e20cca)
+(for some unknown for me reason usb-c connector and some other thing not present on the render)
 # A58HE - Open Source 50% Alice-Like Analog Keyboard 
 Havent ordered pcb's yet due to it's whopping price of ~~$150.
 With this project I'm trying to achieve making the first working ergo analog keyboard.
