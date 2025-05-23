@@ -8,6 +8,7 @@ This project is still work in progress. I dont know if prototypes will be in a w
 # Features 
 - Features that [libhmk](https://github.com/peppapighs/libhmk) firmware supports.
 # TODO
+- [ ] Make some changes in pcb design
 - [ ] Getting my pcb reviewed on [r/PrintedCircuitBoard](https://www.reddit.com/r/PrintedCircuitBoard/)
 - [ ] Order assembled pcb's
 - [ ] Design the case
