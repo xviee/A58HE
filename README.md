@@ -1,3 +1,7 @@
+
+
+
+
 # A58HE - Open Source 50% Alice-Like Analog Keyboard 
 Havent ordered pcb's yet due to it's whopping price of ~~$150.
 With this project I'm trying to achieve making the first working ergo analog keyboard.
@@ -10,3 +14,4 @@ This project is still work in progress. I dont know if prototypes will be in a w
 - Getting my pcb reviewed on [r/PrintedCircuitBoard](https://www.reddit.com/r/PrintedCircuitBoard/)
 - Order assembled pcb's
 - Get this thing to work :3
+- Make a good looking case and get it manufactured from aluminum
